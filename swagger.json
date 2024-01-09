@@ -1,8 +1,8 @@
 {
-    "url": "https://raw.githubusercontent.com/mohithkalyan/mohithkalyan.github.io/master/payloads/xss/swagger.yaml",
+    "url": "https://github.com/akshantula-neha/xss-payloads/blob/main/swagger.yaml",
     "urls": [
         {
-            "url": "https://raw.githubusercontent.com/mohithkalyan/mohithkalyan.github.io/master/payloads/xss/swagger.yaml",
+            "url": "https://github.com/akshantula-neha/xss-payloads/blob/main/swagger.yaml",
             "name": "PoC"
         }
     ]
